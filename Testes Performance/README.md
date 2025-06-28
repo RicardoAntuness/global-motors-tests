@@ -1,4 +1,4 @@
-# ⚡ Testes de Performance com k6 - App de Venda de Carros
+# Testes de Performance com k6 - App de Venda de Carros
 
 Este readme contém dois testes de carga escritos com k6, uma ferramenta open-source de performance testing. Os testes simulam cenários reais de uso da API REST do aplicativo de venda de carros.
 

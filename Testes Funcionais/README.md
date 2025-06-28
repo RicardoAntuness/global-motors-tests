@@ -1,4 +1,4 @@
-# Documentação de Testes - App de Venda de Carros
+# Testes Funcionais - App de Venda de Carros
 
 ### Este documento descreve os testes para as principais funcionalidades do aplicativo de venda de carros.
 
